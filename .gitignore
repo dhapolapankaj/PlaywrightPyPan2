@@ -1,0 +1,6 @@
+.venv
+.vscode
+_pycache
+.pytest_cache
+*.pyc
+log.txt
